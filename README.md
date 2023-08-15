@@ -2,7 +2,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estou estudando Typescript
 
-## Linguagens
+## Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohyer&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohyer&layout=compact&theme=dark)
 

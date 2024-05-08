@@ -1,6 +1,5 @@
 ### Olá, mundo! 👋
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando Typescript
 
 ## Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohyer&show_icons=true&theme=dark)

@@ -1,5 +1,6 @@
 ## Hello, World! 👋
-- 🔭 Hoje trabalho com front-end
+Working with web development, I focus on developing an optimized product through great teamwork and the experience gained so far.
+I've been through several languages ​​such as C, C++, C#, Java, but my specialty today is JavaScript, PHP and SQL
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohyer&show_icons=true&theme=dark)
